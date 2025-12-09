@@ -1,0 +1,12 @@
+| Role / Usage           | Color Name           | Hex Code    |
+| ---------------------- | -------------------- | ----------- |
+| **Primary**            | Deep Navy Blue       | **#0A2A5A** |
+| **Secondary**          | Bright Moving Orange | **#F4A100** |
+| **Background**         | Soft Light Gray      | **#F7F8FA** |
+| **Surface / Cards**    | Pure White           | **#FFFFFF** |
+| **Heading Text**       | Charcoal Black       | **#1A1A1A** |
+| **Body Text**          | Cool Gray            | **#6B7280** |
+| **Accent**             | Sky Blue             | **#3B82F6** |
+| **Success**            | Modern Green         | **#22C55E** |
+| **Warning**            | Soft Amber           | **#FBBF24** |
+| **Footer / Dark Base** | Graphite Gray        | **#1C1F23** |
